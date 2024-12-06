@@ -1,0 +1,1 @@
+Gemini_API_KEY='AIzaSyBh0ZwxyYqQQV69S3Pwt_DPo2p-RR7vvnQ'
